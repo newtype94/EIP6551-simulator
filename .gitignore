@@ -1,0 +1,12 @@
+# Ignore all files in the artifacts directory   
+*/artifacts
+
+# Ignore all files in the node_modules directory
+*/node_modules
+
+# Ignore the package-lock.json file
+*/package-lock.json
+
+# Ignore the cache directory
+/eip6551-network/cache
+
